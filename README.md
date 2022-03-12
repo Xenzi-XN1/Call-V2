@@ -12,4 +12,5 @@ $ cd Call-V2
 $ python Call-V2.py
 ```
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=XENZI%20GANZ&color=green)](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=XENZI%20GANZZ&color=green
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=XENZI%20GANZZ&color=green)](https://youtube.com/channel/UCJWq5Rw5C5JbJeY0xXR_kWQ)
+
